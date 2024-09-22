@@ -34,7 +34,7 @@ The following data sources were used for this analysis:
 
 ## How to Use
 1. Clone this repository.
-2. Open the Power BI file (`IPL_Analysis.pbix`) in Power BI Desktop.
+2. Open the Power BI file (`IPL.pbix`) in Power BI Desktop.
 3. Explore the various reports and dashboards available within the file. Use slicers and filters for specific insights.
 
 ## Requirements
